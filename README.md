@@ -1,4 +1,4 @@
-###👋 Hi, I’m @KevinGirardx
+### Hi there 👋
 
 - 🔭 Member of - <a href="https://github.com/Project-Sloth">**Project-Sloth**</a>
 - 🌱 Learning as i go I'm nooby
