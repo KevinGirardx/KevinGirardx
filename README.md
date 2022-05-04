@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there I'm Kevin 👋
 
-- 🔭 Member of - <a href="https://github.com/Project-Sloth">**Project-Sloth**</a>
+- 🔭 Member of : <a href="https://github.com/Project-Sloth">**Project-Sloth**</a>
 - 🌱 Learning as i go I'm nooby
 - 📫 How to reach me: KevinGirardx#1960
 
