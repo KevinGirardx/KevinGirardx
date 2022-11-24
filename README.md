@@ -5,7 +5,7 @@
 
 ### Hi there I'm Kevin 👋
 
-- 🌱 Learning as i go I'm nooby
+- 📚 Learning
 - 🏪 Tebex : https://kevin-scripts.tebex.io/
 
 
