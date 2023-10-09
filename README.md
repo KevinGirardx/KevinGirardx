@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://cdn.discordapp.com/attachments/907789876177555495/1045197340488765490/Untitled-1.png" width="600" height="300"/>
-</div>
+
 
 
 ### Hi there I'm Kevin 👋
